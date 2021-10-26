@@ -19,3 +19,7 @@ Week3: Data Definition and Baseline
 
 [Week1: Overview of the ML Lifecycle and Deployment](https://skinny-harbor-d7a.notion.site/Week-1-Overview-of-the-ML-Lifecycle-and-Deployment-e8c7f4df59ba4c21a0030af4cd7180eb) 내용 정리
 
+머신러닝 모델을 만드는 것 만큼 머신러닝 모델 시스템을 유지 관리하는 것의 중요성을 다시 상기함.  
+단일 태스크가 아닌, 마치 서비스 처럼 꾸준히 성장시켜가야하는 시스템임을 인식하고,  
+한번에 배포하려하지 말고 자동화의 정도 단계를 거친 배포(서비스를 성장) 전략으로 모델에 더 효과적인 성능을 낼 수 있는 학습 기회를 제공하는 것이 필요하겠다.  
+모델을 사용할 서비스의 기획/개발 조직 모두 인식해야할 중요한 점이라고 생각됨.
