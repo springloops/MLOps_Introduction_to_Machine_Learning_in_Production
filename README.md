@@ -29,18 +29,8 @@ Week3: Data Definition and Baseline
 - opencv를 활용해 이미지 개채 인식기 구현
 - FastAPI + Uvicorn을 통해서 serving 서버를 구현
 - confidence를 client에서 파라미터로 설정할 수 있도록 개선
----
 
-Lab Code
-- [server.ipynb](./week1-ungraded-lab/server.ipynb)
-- [client.ipynb](./week1-ungraded-lab/client.ipynb)
-
----
-
-OpenCV
-- 오랜만에 비주얼한 작업이라 재미있었다.
-- 인식률은 그닥??? (confidence=0.1)
-<img src='./week1-ungraded-lab/images_uploaded/Snap Camera Photo.jpg' width='80%'>
-
-FastAPI + Uvicorn
-- 경량 프레임웍 +  ASGI server 구성으로 swagger를 내장하고 있고, decorator를 통해서 router를 쉽게 구성할 수 있음.
+| Lab code | [server.ipynb](./week1-ungraded-lab/server.ipynb)<br />[client.ipynb](./week1-ungraded-lab/client.ipynb) |
+|--------  |--------|
+|스크린샷     |  <img src='./week1-ungraded-lab/images_uploaded/Snap Camera Photo.jpg' width='80%'> |
+| 비고 | OpenCV <br/> - 오랜만에 비주얼한 작업이라 재미있었다. <br/>- yolov3-tiny 인식률은 그닥??? (confidence=0.1) <br/> FastAPI + Uvicorn <br/>- 경량 프레임웍 +  ASGI server 구성으로 swagger를 내장하고 있고, decorator를 통해서 router를 쉽게 구성할 수 있음.|
