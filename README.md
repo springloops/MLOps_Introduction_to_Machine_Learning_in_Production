@@ -8,7 +8,7 @@ Week3: Data Definition and Baseline
 
 <br/>
 
-#### Week1: Overview of the ML Lifecycle and Deployment
+### Week1: Overview of the ML Lifecycle and Deployment
 
 - ML 생명 주기의 구성 요소 식별
 - ML 프로젝트 관련 Concept Drift 정의
@@ -40,7 +40,7 @@ Lab Code
 OpenCV
 - 오랜만에 비주얼한 작업이라 재미있었다.
 - 인식률은 그닥??? (confidence=0.1)
-<img src='./week1-ungraded-lab/images_uploaded/Snap Camera Photo.jpg'>
+![obejct-detect](./week1-ungraded-lab/images_uploaded/Snap Camera Photo.jpg)
 
 FastAPI + Uvicorn
 - 경량 프레임웍 +  ASGI server 구성으로 swagger를 내장하고 있고, decorator를 통해서 router를 쉽게 구성할 수 있음.
