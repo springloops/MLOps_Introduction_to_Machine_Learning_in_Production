@@ -1,8 +1,6 @@
 ## MLOps Introduction to Machine Learning in Production
 
-[MLOps Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/welcome)과정을 들으면서 개인적으로 공부한 내용을 정리함. 
-
-MLOps Introduction to Machine Learning in Production 과정은 아래와 같이 3주 과정으로 구성되어 있다.
+[MLOps Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/welcome) 과정을 들으면서 개인적으로 공부한 내용을 정리함. 본 과정은 아래와 같이 3주 과정으로 구성되어 있다.
 
 Week1: Overview of the ML Lifecycle and Deployment  
 Week2: Select and Train a Model  
